@@ -1,8 +1,14 @@
 body {
     background-color: #9E0000;
 }
- 
+
 h1 {
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.Box {
+    width: fit-content;
+    height: fit-content;
+    color: aqua;
 }
